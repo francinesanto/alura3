@@ -21,6 +21,10 @@
     align-items: center;
 }
 
+.container_botao{
+    display: none;
+}
+
 .container_imagem{
     padding: 1em;
     
@@ -44,6 +48,7 @@
 
 .menu_lista_titulo{
     color: var(--orange);
+    font-weight: 700;
 }
 
 .menu_lista_link{
